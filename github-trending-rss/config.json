@@ -1,0 +1,9 @@
+{
+    "save_path": "github_trending",
+    "download_interval": 3600,
+    "max_downloads": 3,
+    "trending_url": "https://github.com/trending/python?since=weekly",
+    "rss_url": "https://github.com/trending/python?since=weekly&format=rss",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "timeout": 30
+}
