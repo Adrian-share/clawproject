@@ -1,0 +1,10 @@
+{
+  "github_trending_python": {
+    "name": "GitHub Trending Python",
+    "url": "https://github.com/trending/python",
+    "description": "每日热门 Python 项目",
+    "poll_interval": "12h",
+    "last_fetched": "2026-03-02 20:48:14",
+    "enabled": true
+  }
+}
